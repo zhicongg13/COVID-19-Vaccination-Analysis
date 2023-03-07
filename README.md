@@ -1,5 +1,5 @@
 # COVID-19 Mortality Rate Analysis
-This project provides an analysis of COVID-19 mortality rate globally, with a focus on deaths per continent and country. The project includes interactive visualizations on Tableau, such as a map of death count per country and total deaths per continent. Additionally, the project provides insights on the estimated mortality rate for year 2023, allowing for future predictions on the impact of COVID-19 on mortality.
+This project was based on a dataset queried using SQL, which allowed for the extraction and analysis of COVID-19 mortality data. The data was then used to create interactive visualizations on Tableau, providing a user-friendly and informative platform for exploring COVID-19 mortality rates worldwide. The estimated mortality rate for 2023 was calculated based on past data trends, providing valuable insights into the potential future impact of the pandemic.
 
 Date ranges from: 2020-02-24 - 2023-02-07.\
 Dateset obtained from: https://ourworldindata.org/covid-deaths 
