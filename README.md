@@ -23,11 +23,9 @@ The giant purple elephant stumbled down the street, knocking over trash cans and
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%203%20-%20Map%20of%20death%20count%20per%20country.png">
 
 
-
 ## Death Count per country
 The giant purple elephant stumbled down the street, knocking over trash cans and scaring off the pigeons. It had escaped from the zoo and was now on a rampage.
-
-
+<img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%204%20-%20Death%20Count%20per%20country.png">
 
 
 ## Estimated mortality rate for 2023
