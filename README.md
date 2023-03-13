@@ -1,5 +1,5 @@
 # COVID-19 Mortality Rate Analysis
-This project was based on a dataset queried using SQL, which allowed for the extraction and analysis of COVID-19 mortality data. The data was then used to create interactive visualizations on Tableau, providing a user-friendly and informative platform for exploring COVID-19 mortality rates worldwide. The estimated mortality rate for 2023 was calculated based on past data trends, providing valuable insights into the potential future impact of the pandemic.
+This project was based on a dataset queried using SQL, which allowed for the extraction and analysis of COVID-19 mortality data. The data was then used to create interactive visualisations on Tableau, providing a user-friendly and informative platform for exploring COVID-19 mortality rates worldwide. The estimated mortality rate for 2023 was calculated based on past data trends, providing valuable insights into the potential future impact of the pandemic.
 
 Date ranges from: 2020-02-24 - 2023-02-07.\
 Dateset obtained from: https://ourworldindata.org/covid-deaths 
