@@ -37,9 +37,3 @@ This project also provides insights into the estimated mortality rate for the ye
 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%205%20-%20Estimated%20mortality%20rate%20for%202023.png">
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%206%20-%20Estimate%20mortality%20rate%20graph%20for%202023.png">
-
-
-
-
-
-
