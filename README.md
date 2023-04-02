@@ -17,21 +17,21 @@ This section provides an overview of the COVID-19 pandemic, including the total 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%201%20-%20Population%20against%20vaccination%20in%20Asia.png">
 
 
-## Total deaths per continent
-The analysis offers insights into the total number of deaths in each continent, helping to understand the impact of the pandemic on a global scale. 
+## Vaccination over population
+The analysis provides information on the percentage of the population that has been partially or fully vaccinated in each country.
 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%202%20-%20Vaccination%20per%20Country.png">
 
 
 
-## Map of death count per country
-The interactive map allows users to explore the number of COVID-19 deaths by country and compare the mortality rates between regions
+## Map of Fully Vaccinated Population by Country
+The interactive map allows users to explore the percentage of the population that has been fully vaccinated in each country.
 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%203%20-%20Map%20of%20fully%20vaccination.png">
 
 
-## Death Count per country
-This graph provides a comparison of the COVID-19 death count between Australia, China, Singapore, and South Korea. It visually displays the number of deaths in each country, allowing for easy comparison and analysis of the impact of the pandemic. 
+## GDP per capita and vaccination comparison
+This graph analyses the relationship between GDP per capita and COVID-19 vaccination rates in Asia. By comparing the GDP per capita and vaccination rates of each country, providing insights into the potential impact of economic factors on vaccination efforts.
 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%204%20-%20GDP%20per%20capita%20against%20vaccination.png">
 
