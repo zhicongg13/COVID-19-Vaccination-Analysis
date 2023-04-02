@@ -6,7 +6,7 @@ Using Tableau, interactive visualizations were developed, providing a user-frien
 
 The insights obtained from this project offer crucial information for policymakers, public health officials, and the general public, assisting them in comprehending the progress and obstacles encountered in COVID-19 vaccination efforts across Asia.
 
-Date ranges from: 2020-02-24 - 2023-02-07.\
+Date ranges from: 2020-02-24 to 2023-02-07.\
 Dateset obtained from: https://ourworldindata.org/covid-deaths. 
 
 Dashboard visualisation on Tableau: https://public.tableau.com/views/COVID-19VaccinationProject-Dashboard/VaccinationDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
