@@ -1,6 +1,10 @@
 # COVID-19 Mortality Rate Analysis
 
-This project was based on a dataset queried using SQL, which allowed for the extraction and analysis of COVID-19 mortality data. The data was then used to create interactive visualisations on Tableau, providing a user-friendly and informative platform for exploring COVID-19 mortality rates worldwide. The estimated mortality rate for 2023 was calculated based on past data trends, providing valuable insights into the potential future impact of the pandemic.
+The COVID-19 pandemic has posed unprecedented challenges worldwide, and vaccinations have been recognized as one of the most effective strategies to combat the virus. This project aims to analyze the COVID-19 vaccination rate in Asia, with a particular emphasis on the number of individuals who are fully, partially, or not vaccinated, based on a dataset obtained through SQL queries.
+
+Using Tableau, interactive visualizations were developed, providing a user-friendly and informative platform for exploring COVID-19 vaccination rates across Asia. Furthermore, the project explores the correlation between GDP per capita and vaccination rates, employing interactive visualizations such as graphs.
+
+The insights obtained from this project offer crucial information for policymakers, public health officials, and the general public, assisting them in comprehending the progress and obstacles encountered in COVID-19 vaccination efforts across Asia.
 
 Date ranges from: 2020-02-24 - 2023-02-07.\
 Dateset obtained from: https://ourworldindata.org/covid-deaths. 
