@@ -9,7 +9,7 @@ The insights obtained from this project offer crucial information for policymake
 Date ranges from: 2020-02-24 - 2023-02-07.\
 Dateset obtained from: https://ourworldindata.org/covid-deaths. 
 
-Dashboard visualisation on Tableau: https://public.tableau.com/views/Dashboard-COVID-19MortalityRate/Dashboard-COVID-19MortalityRate?:language=en-GB&:display_count=n&:origin=viz_share_link
+Dashboard visualisation on Tableau: https://public.tableau.com/views/COVID-19VaccinationProject-Dashboard/VaccinationDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## COVID-19 global cases and deaths
 This section provides an overview of the global COVID-19 pandemic, including the total number of cases and deaths. As of Feb 07 2023, there have been 670,330,488 cases and 6,808,958 deaths worldwide. These statistics offer insight into the scale of the pandemic and its impact on global health. 
