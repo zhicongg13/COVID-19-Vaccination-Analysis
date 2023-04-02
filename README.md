@@ -1,4 +1,4 @@
-# COVID-19 Mortality Rate Analysis
+# COVID-19 Vaccination Analysis
 
 The COVID-19 pandemic has posed unprecedented challenges worldwide, and vaccinations have been recognized as one of the most effective strategies to combat the virus. This project aims to analyze the COVID-19 vaccination rate in Asia, with a particular emphasis on the number of individuals who are fully, partially, or not vaccinated, based on a dataset obtained through SQL queries.
 
