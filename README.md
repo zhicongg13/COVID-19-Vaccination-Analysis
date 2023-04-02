@@ -11,8 +11,8 @@ Dateset obtained from: https://ourworldindata.org/covid-deaths.
 
 Dashboard visualisation on Tableau: https://public.tableau.com/views/COVID-19VaccinationProject-Dashboard/VaccinationDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
-## COVID-19 global cases and deaths
-This section provides an overview of the global COVID-19 pandemic, including the total number of cases and deaths. As of Feb 07 2023, there have been 670,330,488 cases and 6,808,958 deaths worldwide. These statistics offer insight into the scale of the pandemic and its impact on global health. 
+## COVID-19 vaccination in Asia
+This section provides an overview of the COVID-19 pandemic, including the total number of partially and fully vaccination. As of Feb 07 2023, more than three billions of the population in Asia have received at least one dose of vaccination against COVID-19.
 
 <img align="center" src= "https://github.com/zhicongg13/COVID-19-Mortality-Rate-Analysis/blob/main/Images/Image%201%20-%20Population%20against%20vaccination%20in%20Asia.png">
 
